@@ -7,7 +7,7 @@ You need to have latest version of nodejs and mongodb community server installed
 
 1. Clone the repository with this command:
 
-   `git clone https://github.com/parthamk/Feedback-Collection-System.git`
+   `git clone https://github.com/dhanush-2901/Feedback-Collection-System.git`
 2. Once cloned get into the directory:
 
     `cd Feedback-Collection-System`
